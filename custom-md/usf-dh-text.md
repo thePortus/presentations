@@ -29,7 +29,7 @@ OCR
 
 ##### Binary Sentences
 
-[Binary Sentence Structure](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/texts/binary-sentence.jpg)
+[Binary Sentence Structure](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/texts/binary-sentence.jpg)
 
 ---
 
@@ -39,19 +39,19 @@ OCR
 
 ##### Topic Modeling
 
-[The Goal of Topic Modeling](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/texts/lda-concept-1.jpg)
+[The Goal of Topic Modeling](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/texts/lda-concept-1.jpg)
 
 --
 
 ##### Topic Modeling
 
-[LDA Concepts in the Text](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/texts/lda-concept-2.png)
+[LDA Concepts in the Text](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/texts/lda-concept-2.png)
 
 --
 
 ##### Topic Modeling
 
-[Topics and Documents](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/texts/lda-concept-3.png)
+[Topics and Documents](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/texts/lda-concept-3.png)
 
 ---
 

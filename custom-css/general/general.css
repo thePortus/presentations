@@ -1,0 +1,298 @@
+/*!
+ * 
+ * /custom-css/general/general.css
+ *
+ * thePortus presentation slides css
+ * http://theportus.github.io/presentations
+ * MIT licensed
+ *
+ * Copyright (C) 2017 David J. Thomas, thePortus.com
+ */
+
+html body {
+    font-family: 'Roboto', sans-serif;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(200, 200, 200, 0.6), rgba(0, 0, 0, 0));
+}
+
+.main-container {
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 100%;
+}
+
+.height-full, .height-100 {
+    height: 100% !important;
+}
+
+.width-full, .width-100{
+    width: 100% !important;
+}
+
+.width-66 {
+    width: 66% !important!;
+}
+
+.height-66 {
+    height: 66% !important!;
+}
+
+.height-half, .height-50 {
+    height: 50% !important;
+}
+
+.width-half, .width-50 {
+    width: 50% !important;
+}
+
+.width-33 {
+    width: 33% !important!;
+}
+
+.height-33 {
+    height: 33% !important!;
+}
+
+.line-expanded {
+    line-height: 150% !important;
+}
+
+.line-condensed {
+    line-height: 50% !important;
+}
+
+/* span & div wrappers to size text */
+span.small, div.small p.small {
+    font-size: 50% !important;
+}
+span.pretty-small, div.pretty-small p.pretty-small {
+    font-size: 25% !important;
+}
+span.very-small, div.very-small p.very-small {
+    font-size: 15% !important;
+}
+span.extremely-small, div.extremely-small p.extremely-small {
+    font-size: 10% !important;
+}
+/* transparency levels */
+.transparent-75 {
+    opacity: 0.75 !important;
+}
+.transparent-50 {
+    opacity: 0.5 !important;
+}
+.transparent-25 {
+    opacity: 0.25 !important;
+}
+
+/* ordered list formatting */
+.pretty-list {
+  list-style-type: none;
+  counter-reset: my-awesome-counter;
+}
+.pretty-list li {
+  list-style-type: none;
+  counter-increment: my-awesome-counter;
+  margin: 0.25rem;
+}
+.pretty-list li::before {
+  content: counter(my-awesome-counter);
+  background: rgba(250, 250, 250, 0.80);
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  display: inline-block;
+  line-height: 1.5rem;
+  color: rgb(50, 50, 50);
+  text-align: center;
+  vertical-align: middle;
+  margin-right: 0.5rem;
+  font-size: 40%;
+}
+.pretty-list ol li::before {
+  background: rgba(200, 200, 200, 0.75);
+}
+.pretty-list ol ol li::before {
+  background: rgba(30, 30, 30, 0.5);
+}
+.pretty-list li > small {
+    vertical-align: middle;
+    font-size: 50%;
+}
+.pretty-list li > small a {
+    color: rgb(235, 235, 235);
+}
+
+/* flexbox classes */
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-justify-start {
+    justify-content: flex-start !important;
+}
+
+.flex-justify-end {
+    justify-content: flex-start !important;
+}
+
+.flex-justify-center {
+    justify-content: center !important;
+}
+
+.flex-justify-between {
+    justify-content: space-between !important;
+}
+
+.flex-justify-around {
+    justify-content: space-around !important;
+}
+
+.flex-justify-evenly {
+    justify-content: space-evenly !important;
+}
+
+.flex-align-start {
+    align-items: flex-start !important;
+}
+
+.flex-align-end {
+    align-items: flex-end !important;
+}
+
+.flex-align-center {
+    align-items: center !important;
+}
+
+.flex-align-stretch {
+    align-items: stretch !important;
+}
+
+.flex-align-baseline {
+    align-items: baseline !important;
+}
+
+.flex-align-content-start {
+    align-content: flex-start !important;
+}
+
+.flex-align-content-end {
+    align-content: flex-end !important;
+}
+
+.flex-align-content-center {
+    align-content: center !important;
+}
+
+.flex-align-content-stretch {
+    align-content: stretch !important;
+}
+
+.flex-align-content-between {
+    align-content: space-between !important;
+}
+
+.flex-align-content-around {
+    align-content: space-around !important;
+}
+
+.flex-start {
+    align-self: flex-start !important;
+}
+
+.flex-stop {
+    align-self: flex-end !important;
+}
+
+.slide-contents {
+    height: 500px !important;
+    width: 800px !important;
+}
+
+.center-auto {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.content-container {
+    object-fit: scale-down !important;
+}
+
+.padding-light {
+    padding: 5px !important;
+}
+
+.padding-medium {
+    padding: 25px !important;
+}
+
+/* Reveal.js slide specific */
+.reveal section.present div, reveal section.present span, .reveal section.present p {
+    color: #FFFFFF;
+    font-size: 75%;
+    padding: 25px;
+    font-family: 'Roboto', sans-serif  !important;
+}
+
+.reveal section.present .text-a-bit-small {
+    font-size: 80% !important;
+}
+
+.reveal section.present .text-small {
+    font-size: 60% !important;
+}
+
+.reveal section.present .text-very-small {
+    font-size: 40% !important;
+}
+
+.reveal section.present .text-extremely-small {
+    font-size: 25% !important;
+}
+
+.reveal section.present p img {
+    max-height: 550px !important;
+}
+
+/* text styles */
+
+.text-align-left {
+    text-align: left !important;
+}
+
+.text-align-right {
+    text-align: right !important;
+}
+
+.text-align-justify {
+    text-align: justify !important;
+}
+
+.text-align-center{
+    text-align: center !important;
+}
+
+.text-top .text-valign-top {
+    vertical-align: text-top !important;
+}
+
+.text-align-middle .text-valign-middle .text-valign-center{
+    vertical-align: middle !important;
+}
+
+.text-bottom .text-valign-bottom {
+    vertical-align: text-bottom !important;
+}

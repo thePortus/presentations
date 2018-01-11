@@ -31,8 +31,9 @@
         <!-- Extra css for the spreadsheet plugin -->
         <link rel="stylesheet" href="plugin/spreadsheet/spreadsheet.css">
 
-        <!-- thePortus css for all pages -->
-        <link rel="stylesheet" href="css/thePortus.css">
+        <!-- extra css for slide layouts & styling -->
+        <link rel="stylesheet" href="custom-css/general/general.css">
+		<link rel="stylesheet" href="custom-css/general/layout.css">
 
         <!-- your extra custom css -->
         <link rel="stylesheet" href="custom-css/main.css" />
@@ -66,7 +67,7 @@
                             <div>
                                 <hr />
                             </div>
-                            <div class="flex-column">
+                            <div class="flex-column text-a-bit-small">
                                 <div class="small">Instructor of Ancient History and Digital Humanities</div>
                                 <div class="small"><a href="https://usf.edu" target="_">University of South Florida</a></div>
                                 <div class="small">Department of History</div>
@@ -75,17 +76,17 @@
                                 <hr />
                             </div>
                             <div class="flex-row flex-justify-evenly">
-                                <div class="very-small">
+                                <div class="text-small">
                                     <a href="http://thePortus.com" target="_">Website</a>
                                 </div>
-                                <div class="very-small">
+                                <div class="text-small">
                                     <a href="mailto:dave.a.base@gmail.com">Email</a>
                                 </div>
                             </div>
                             <div>
                                 <hr />
                             </div>
-                            <div class="extremely-small text-bottom">Powered by <a href="https://github.com/hakimel/reveal.js">Reveal.js</a></div>
+                            <div class="text-very-small text-bottom">Powered by <a href="https://github.com/hakimel/reveal.js">Reveal.js</a></div>
                     </section> <!-- /splash page -->
 
                     <!-- current talk -->
@@ -113,22 +114,22 @@
                         <hr />
                         <ol class="pretty-list">
                             <li>
-                                <span class="pretty-small"><a href="usf-dh-dh1-intro.html">Introduction to the Digital Humanities</a></span>
+                                <span class="text-small"><a href="usf-dh-dh1-intro.html">Introduction to the Digital Humanities</a></span>
                             </li>
                             <li>
-                                <span class="pretty-small"><a href="usf-dh-computer-history.html">Nations & Capital: The Evolution of Computing</a></span>
+                                <span class="text-small"><a href="usf-dh-computer-history.html">Nations & Capital: The Evolution of Computing</a></span>
                             </li>
                             <li>
-                                <span class="pretty-small"><a href="usf-dh-history-of-hacking.html">Horses, Humans, and a History of Hacking</a></span>
+                                <span class="text-small"><a href="usf-dh-history-of-hacking.html">Horses, Humans, and a History of Hacking</a></span>
                             </li>
                             <li>
-                                <span class="pretty-small"><a href="usf-dh-archive.html">Data's Physical Footprint</a></span>
+                                <span class="text-small"><a href="usf-dh-archive.html">Data's Physical Footprint</a></span>
                             </li>
                             <li>
-                                <span class="pretty-small"><a href="usf-dh-networks">Analyzing Historical Networks</a></span>
+                                <span class="text-small"><a href="usf-dh-networks">Analyzing Historical Networks</a></span>
                             </li>
                             <li>
-                                <span class="pretty-small"><a href="usf-dh-text">Unraveling Text</a></span>
+                                <span class="text-small"><a href="usf-dh-text">Unraveling Text</a></span>
                             </li>
                         </ol>
                     </section> <!-- /hacking history -->
@@ -142,17 +143,17 @@
                     </section> <!-- /history title page -->
                     <!-- religions of the ancient mediterranean -->
 					<section>
-                        <h3>Religions<br /><span class="pretty-small">of the</span><br />Ancient Mediterranean</h3>
+                        <h3>Religions<br /><span class="text-very-small">of the</span><br />Ancient Mediterranean</h3>
                         <hr />
                         <ol class="pretty-list">
                             <li>
-                                <span class="pretty-small"><a href="usf-hist-ram-intro.html">Introduction</a></span>
+                                <span class="text-small"><a href="usf-hist-ram-intro.html">Introduction</a></span>
                             </li>
                             <li>
-                                <span class="pretty-small"><a href="usf-hist-truths-in-history.html">Truths in History</a></span>
+                                <span class="text-small"><a href="usf-hist-truths-in-history.html">Truths in History</a></span>
                             </li>
                             <li>
-                                <span class="pretty-small"><a href="usf-hist-tools.html">Tools of the Trade</a></span>
+                                <span class="text-small"><a href="usf-hist-tools.html">Tools of the Trade</a></span>
                             </li>
                         </ol>
                     </section> <!-- /religions of the ancient mediterranean -->
@@ -168,7 +169,7 @@
                         <h3>Talks</h2>
                         <hr />
                         <ol class="pretty-list">
-                            <span class="pretty-small"><li>Coming Soon</li></span>
+                            <span class="text-small"><li>Coming Soon</li></span>
                         </ol>
                     </section> <!-- /talks -->
                     <!-- conferences -->
@@ -176,7 +177,7 @@
                         <h3>Conference Panelist Presentations</h3>
                         <hr />
                         <ol class="pretty-list">
-                            <span class="pretty-small"><li>Coming Soon</li></span>
+                            <span class="text-small"><li>Coming Soon</li></span>
                         </ol>
                     </section> <!-- /conferences -->
                 </section> <!-- /conferences and talks vertical container -->
@@ -203,7 +204,7 @@
                 backgroundTransition: Reveal.getQueryHash().backgroundTransition || 'default',
                 transitionSpeed: Reveal.getQueryHash().transitionSpeed || 'default',
                 // Parallax scrolling
-                parallaxBackgroundImage: 'https://d37emhs34s6iw8.cloudfront.net/presentations/common/backgrounds/angular-clemens-migrant.jpg',
+                parallaxBackgroundImage: 'https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/common/backgrounds/angular-clemens-migrant.jpg',
                 parallaxBackgroundSize: '3778px 1900px',
                 // markdown, marked parsing configuration
                 markdown: {

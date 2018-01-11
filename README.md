@@ -5,6 +5,12 @@ Instructor of Ancient History and Digital Humanities, [University of South Flori
 
 Reveal.js presentations from my classes, conferences, and talks
 
+---
+
+[![Travis-CI Status](https://travis-ci.org/thePortus/presentations.svg?branch=master)](https://travis-ci.org/thePortus/presentations)
+
+---
+
 ## Installation
 
 * Requirements:

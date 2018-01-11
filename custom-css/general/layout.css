@@ -1,0 +1,72 @@
+/*!
+ *
+ * /custom-css/general/layout.css
+ *
+ * thePortus presentation slides css
+ * http://theportus.github.io/presentations
+ * MIT licensed
+ *
+ * Copyright (C) 2017 David J. Thomas, thePortus.com
+ */
+
+div.layout {
+    align-self: stretch !important;
+    align-items: stretch !important;
+    justify-content: space-between !important;
+    align-content: space-between !important;
+}
+
+div.layout div.layout-row {
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+div.layout div.layout-col {
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+div.layout div.img-container {
+    display: flex: !important;
+    justify-content: center !important;
+    object-fit: scale-down !important;
+    object-position: 50% 50% !important;
+    padding: 10px !important;
+}
+
+div.layout div.layout-col div.img-container {
+    width: 100% !important;
+    height: auto !important;
+    max-height: 550px !important;
+    max-width: 600px !important;
+}
+
+div.layout div.layout-row div.img-container {
+    height: 100% !important;
+    width: auto !important;
+}
+
+div.layout div.text-container, div.layout div.list-container {
+    align-self: center !important;
+    text-align: left !important;
+    padding: 10px !important;
+    font-size: 75% !important;
+}
+
+div.layout div.list-container {
+    line-height: 75% !important;
+}
+
+div.layout div.flex-grow {
+    flex-grow: 1 !important;
+}
+
+div.layout div.flex-shrink {
+    flex-shrink: 1 !important;
+}
+
+div.layout div.layout-center {
+    align-self: center !important;
+    align-content: center !important;
+    justify-content: center !important;
+}

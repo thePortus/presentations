@@ -3,19 +3,19 @@
 
 ---
 
-![The Seven Bridges of Koenigsberg Map](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/koenigsberg-1.png)
+![The Seven Bridges of Koenigsberg Map](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/koenigsberg-1.png)
 
 ##### Koenigsberg: Drunken Bets and Network Thinking
 
 --
 
-![The Seven Bridges of Koenigsberg Simplified](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/koenigsberg-2.png)
+![The Seven Bridges of Koenigsberg Simplified](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/koenigsberg-2.png)
 
 ##### Considering relationships, not locations
 
 --
 
-![The Seven Bridges of Koenigsberg Abstracted](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/koenigsberg-3.png)
+![The Seven Bridges of Koenigsberg Abstracted](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/koenigsberg-3.png)
 
 ##### Mathematically abstracted
 
@@ -25,25 +25,25 @@
 
 --
 
-![Network Graph Types - Directed vrs. Undirected Graphs Examples](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/graph-types-direction.png)
+![Network Graph Types - Directed vrs. Undirected Graphs Examples](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/graph-types-direction.png)
 
 ##### Directed vrs. Undirected Edges
 
 --
 
-![Network Graph Types - Weighted vrs. Unweighted Graphs Examples](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/graph-types-weight1.png)
+![Network Graph Types - Weighted vrs. Unweighted Graphs Examples](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/graph-types-weight1.png)
 
 ##### Weighted vrs. Unweighted Edges
 
 --
 
-![Network Graph Types - Weighted vrs. Unweighted Graphs Examples](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/graph-types-weight2.png)
+![Network Graph Types - Weighted vrs. Unweighted Graphs Examples](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/graph-types-weight2.png)
 
 ##### Quantifying Relationships
 
 --
 
-![Visual Information - Color, Size, and Layout](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/graph-colors.png)
+![Visual Information - Color, Size, and Layout](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/graph-colors.png)
 
 ##### Visually Displaying Information: Placement, Color, and Size
 
@@ -51,7 +51,7 @@
 
 ##### Keep it Simple - The Dangers of Many Network Graphs
 
-![Bad Visualizations - The Spaghetti Monster](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/spaghetti-monster.png)
+![Bad Visualizations - The Spaghetti Monster](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/spaghetti-monster.png)
 
 ---
 
@@ -80,7 +80,7 @@
             </ul>
         </td>
         <td>
-            ![Visual Information - Color, Size, and Layout](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/graph-colors.png)
+            ![Visual Information - Color, Size, and Layout](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/graph-colors.png)
         </td>
     </tr>
 </table>
@@ -93,13 +93,13 @@
 
 ##### The Topography of the Volga River Valley
 
- ![Map of the Volga River and its Cities](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/moscow-volga-1.png)
+ ![Map of the Volga River and its Cities](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/moscow-volga-1.png)
 
 --
 
 ##### The *Topology* of the Volga River Valley
 
-![Network Graph of Cities on the Volga River](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/moscow-volga-2.png)
+![Network Graph of Cities on the Volga River](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/moscow-volga-2.png)
 
 
 
@@ -107,62 +107,62 @@
 
 ##### The *Monte*, A Hill of Broken Pottery
 
-![The Monte Testaccio - Inside](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/monte-testaccio-inside.png)
+![The Monte Testaccio - Inside](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/monte-testaccio-inside.png)
 
 --
 
 ##### Digging through the Centuries
 
-![The Monte Testaccio - Side View](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/monte-testaccio-side-view.png)
+![The Monte Testaccio - Side View](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/monte-testaccio-side-view.png)
 
 --
 
 ##### Unraveling Networks of Exchange
 
-![The Monte Testaccio - Amphora Maker's Mark](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/monte-testaccio-stamp.png)
+![The Monte Testaccio - Amphora Maker's Mark](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/monte-testaccio-stamp.png)
 
 --
 
 ##### The Major Source: Baetica (Southern Spain)
 
-![The Monte Testaccio - Map of Baetica](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/monte-testaccio-baetica-1.png)
+![The Monte Testaccio - Map of Baetica](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/monte-testaccio-baetica-1.png)
 
 --
 
 ##### The Topography of the Towns Mentioned in the Monte
 
-![The Monte Testaccio - River Valley Map](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/monte-testaccio-baetica-2.png)
+![The Monte Testaccio - River Valley Map](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/monte-testaccio-baetica-2.png)
 
 --
 
 ##### The *Topology* of the Towns Mentioned in the Monte
 
-![The Monte Testaccio - Network Topology](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/monte-testaccio-baetica-3.png)
+![The Monte Testaccio - Network Topology](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/monte-testaccio-baetica-3.png)
 
 --
 
 ##### Another Look at Trade - Roman Shipwrecks from Turkey and Trade Networks
 
-![Roman Shipwrecks - Hellenistic Period](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/shipwreck-network-1.png)
+![Roman Shipwrecks - Hellenistic Period](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/shipwreck-network-1.png)
 
 
 --
 
 ##### Literary Approaches - Mapping the Networks Discourse Analysis
 
-![Co-Citational Network Graph as Discourse Analysis](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/network-discourse.png)
+![Co-Citational Network Graph as Discourse Analysis](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/network-discourse.png)
 
 --
 
 ##### Using Network Analysis - What is a Network Really?
 
-![Network Connections Imagined in Inscription from Eleusis](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/imagined-networks.png)
+![Network Connections Imagined in Inscription from Eleusis](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/imagined-networks.png)
 
 --
 
 ##### The Growth of Network Analysis - Popularity Amongst Scholars in Historical Context
 
-![Network Connections Imagined in Inscription from Eleusis](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/imagined-networks.png)
+![Network Connections Imagined in Inscription from Eleusis](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/digital/networks/imagined-networks.png)
 
 --
 
