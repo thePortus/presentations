@@ -1,20 +1,26 @@
 <!doctype html>
 <html>
 	<head>
+		<!-- authorship info -->
+        <meta name="author" content="David Thomas">
+        <title>Digital Presentations</title>
+        <!-- external meta and css imports -->
 		<link rel="import" href="imports-meta-content.html">
 		<link rel="import" href="imports-css-libs.html">
-		<title>Introduction to the Digital Humanities</title>
+        <!-- extra css for slide layouts & styling -->
+        <link rel="stylesheet" href="custom-css/layout/slides.css">
+        <link rel="stylesheet" href="custom-css/layout/text.css">
+        <!-- sets the background for this presentation -->
+        <link rel="stylesheet" href="custom-css/background/angular-clemens-migrant.css">
+        <!-- any extra styling you want -->
+        <link rel="stylesheet" href="custom-css/main.css" />
 	</head>
 	<body>
+
         <!-- reveal -->
 		<div class="reveal">
             <!-- slides -->
 			<div class="slides">
-				<section class="title">
-					<h1>What are the Digital Humanities</h1>
-
-					<div class="content">... and what do you have to do to succeed in this course</div>
-				</section>
                 <section data-markdown="custom-md/usf-dh-dh1-intro.md"
                          data-separator="^\r?\n---\r?\n$"
                          data-separator-vertical="^\r?\n--\r?\n$"
@@ -23,7 +29,8 @@
                 </section>
 			</div> <!-- /slides -->
 		</div> <!-- /reveal -->
-		<link rel="import" href="imports-js-libs.html">
+
+        <link rel="import" href="imports-js-libs.html">
 		<link rel="import" href="imports-reveal-config.html">
 	</body>
 </html>

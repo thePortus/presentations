@@ -1,130 +1,97 @@
-# Religions of the Ancient Mediterranean
-
---
-
-##### The 'Where and When': Mediterranean, 2700 BCE - 900 CE
-
-
-![Mediterranean Map](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/what-geography.jpg)
-
---
-
-#### The 'How': Coursework and End Product
-
-<div class="layout">
-    <div class="layout-column width-50">
-        <div class="list-container">
-            <ul>
-                <li>Weekly Readings/Prompts</li>
-                <li>Course Discussion</li>
-                <li>Leading Discussion/Crafting Prompts</li>
-                <li>Grad Student Requirements</li>
-                <li>Office Hours</li>
-                <li>End Product
-                    <ul>
-                        <li>Collaboration</li>
-                        <li>Final Paper</li>
-                        <li>Milestones
-                            <ul>
-                                <li>Source Analysis</li>
-                                <li>Proposal/Bibliography</li>
-                                <li>Rough Draft</li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
-    </div>
+<div class="slide slide-title">
+    <header>
+        <h1>Religions of the Ancient Mediterranean</h1>
+    </header>
 </div>
 
 --
 
-Approaches, Scales, and Themes
-
---
-
-##### Myths and Beliefs
-
-<div class="layout">
-    <div class="img-container">
-        ![Egyptian Book of the Dead](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egyptian-myth.jpg)
-    </div>
+<div class="slide slide-title">
+    <header><h2>The Basics</h2></header>
 </div>
 
 --
 
-##### Defining Ancient Religion...
-
-<div class="layout">
-
-        **Gaius Aurelius Cotta, De Natura Deorum 3.5**
-
-        <div class="text-container">
-            The entirety of the religio of the Roman people is divided into rites and auspices, to which is added a third thing, namely whatever warnings the interpreters of the Sibylline books or haruspices issue for the sake of foreknowledge on the basis of portents and omens. I hold that none of these religiones should ever be neglected, and I have persuaded myself that Romulus and Numa laid the foundations of our state by establishing the auspices and rites, respectively, and that our state could never have become so great without the greatest appeasement of the immortal gods.
-        </div>
-
+<div class="slide">
+    <header><h3>The 'Where and When': Mediterranean, 2700 BCE - 900 CE</h3></header>
+    <content>![Mediterranean Map](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/what-geography.jpg)</content>
 </div>
 
 --
 
-##### The Universality of Beliefs
+<div class="slide">
+    <header><h3>The 'How': Coursework and End Product</h3></header>
+    <content><ul>
+            <li>Weekly Readings/Prompts</li><li>Course Discussion</li><li>Leading Discussion/Crafting Prompts</li><li>Grad Student Requirements</li><li>Office Hours</li><li>End Product<ul><li>Collaboration</li><li>Final Paper</li><li>Milestones<ul><li>Source Analysis</li><li>Proposal/Bibliography</li><li>Rough Draft</li></ul></li></ul></li></ul></content>
+</div>
 
-<div class="layout">
+--
 
-        **CIL 14.672**
+<div class="slide">
+    <header><h2>Approaches, Scales, and Themes</h2></header>
+    <content></content>
+</div>
 
-        <div class="text-container">
+--
 
-            Do not walk by this epitaph, but stop, listen, learn, and proceed. There is no boat in Hades, no ferryman Charon, no caretaker Aeacus, no dog Cerberus. All who die become bones and ashes, nothing more. I speak the truth. Go now, traveler, lest I, who is dead, even seem longwinded to you.
+<div class="slide">
+    <header><h3>Myths and Beliefs</h3></header>
+    <content>![Egyptian Book of the Dead](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egyptian-myth.jpg)</content>
+</div>
 
-        </div>
+--
 
+<div class="slide">
+    <header><h3>Defining Ancient Religion...</h3></header>
+    <content><div class="text-passage">The entirety of the religio of the Roman people is divided into rites and auspices, to which is added a third thing, namely whatever warnings the interpreters of the Sibylline books or haruspices issue for the sake of foreknowledge on the basis of portents and omens. I hold that none of these religiones should ever be neglected, and I have persuaded myself that Romulus and Numa laid the foundations of our state by establishing the auspices and rites, respectively, and that our state could never have become so great without the greatest appeasement of the immortal gods.</div></content>
+</div>
+
+--
+
+<div class="slide">
+    <header><h3>The Universality of Beliefs</h3></header>
+    <content><div class="text-passage">**CIL 14.672**
+    The entirety of the religio of the Roman people is divided into rites and auspices, to which is added a third thing, namely whatever warnings the interpreters of the Sibylline books or haruspices issue for the sake of foreknowledge on the basis of portents and omens. I hold that none of these religiones should ever be neglected, and I have persuaded myself that Romulus and Numa laid the foundations of our state by establishing the auspices and rites, respectively, and that our state could never have become so great without the greatest appeasement of the immortal gods.</div></content>
 </div>
 
 ---
 
-#### Public Ritual
-
---
-
-##### The Procession
-
-<div class="layout">
-    <div class="layout-row">
-        <div class="layout-col img-container">
-            ![Archaic procession](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/procession-1.jpg)
-        </div>
-        <div class="layout-col img-container">
-            ![Panathenaic procession](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/procession-2.jpg)
-        </div>
-    </div>
+<div class="slide slide-title">
+    <header><h2>Public Ritual</h2></header>
+    <content></content>
 </div>
 
 --
 
-##### The Snackrifice
+<div class="slide slide-2-col">
+    <header><h2>The Procession</h2></header>
+    <left-col>![Archaic procession](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/procession-1.jpg)</left-col>
+    <right-col>![Panathenaic procession](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/procession-2.jpg)</right-col>
+</div>
 
-<div class="layout">
-    <div class="layout-row">
-        <div class="layout-col img-container">
-            ![Sacrificing a bull to Asclepius](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/sacrifice-1.jpg)
-        </div>
-        <div class="layout-col img-container">
-            ![Individual sacrifice](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/sacrifice-2.gif)
-        </div>
-    </div>
+--
+
+<div class="slide slide-2-col">
+    <header><h2>The Snackrifice</h2></header>
+    <left-col>![Sacrificing a bull to Asclepius](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/sacrifice-1.jpg)</left-col>
+    <right-col>![Individual sacrifice](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/sacrifice-2.gif)</right-col>
 </div>
 
 --
 
 ###### Votive Dedications
 
-![Votive Dedications](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/sacrifice-3.jpg)
+<div class="slide">
+    <header><h3>Votive Dedications</h3></header>
+    <content>![Votive Dedications](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/sacrifice-3.jpg)</content>
+</div>
 
 ---
 
-#### Religion: High and Low
+<div class="slide slide-title">
+    <header><h2>Religion: High and Low</h2></header>
+    <content></content>
+</div>
 
 --
 
@@ -198,7 +165,9 @@ Approaches, Scales, and Themes
 
 ---
 
-#### Imperialism
+<div class="slide slide-title">
+    <header><h2>Imperialism</h2></header>
+</div>
 
 --
 
@@ -223,7 +192,9 @@ Approaches, Scales, and Themes
 
 ---
 
-#### Persecution
+<div class="slide slide-title">
+    <header><h2>Persecution</h2></header>
+</div>
 
 --
 
@@ -250,7 +221,9 @@ Approaches, Scales, and Themes
 
 ---
 
-#### Syncretism
+<div class="slide slide-title">
+    <header><h2>Syncretism</h2></header>
+</div>
 
 --
 
@@ -323,7 +296,9 @@ Approaches, Scales, and Themes
 
 ---
 
-#### A Local Example: Dura-Europas
+<div class="slide slide-title">
+    <header><h2>A Local Example: Dura-Europas</h2></header>
+</div>
 
 --
 

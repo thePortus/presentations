@@ -9,13 +9,11 @@
         minScale: 1,
         maxScale: 1,
         history: true,
-        mouseWheel: true,
+        mouseWheel: false,
         hideAddressBar: true,
         prefixLinks: false,
         // disable vertical centering
         center: false,
-        // set slide display to default to grid
-        display: 'grid',
         theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
         transition: Reveal.getQueryHash().transition || 'convex', // default/cube/page/concave/convex/zoom/linear/fade/none
         backgroundTransition: Reveal.getQueryHash().backgroundTransition || 'default',
@@ -42,8 +40,8 @@
             // Syntax highlight for <code> elements
             { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
             // Accessibility plugin
-            //{ src: 'plugin/accessibility/helper.js', async: true, condition: function() {
-            //    	return !!document.body.classList; } },
+            { src: 'plugin/accessibility/helper.js', async: true, condition: function() {
+                	return !!document.body.classList; } },
             // Zoom in and out with Alt+click
             { src: 'plugin/zoom-js/zoom.js', async: true },
             // Speaker notes

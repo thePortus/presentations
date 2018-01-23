@@ -1,3 +1,12 @@
+<div class="slide">
+    <header>
+        <h1>Telling Truths in History</h1>
+    </header>
+    <content>Perspective and Scope</content>
+</div>
+
+--
+
 # Telling Truths in History
 
 A very local analogy:
