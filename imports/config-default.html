@@ -1,5 +1,5 @@
 <!doctype html>
-<!-- start template imports-reveal-config.html -->
+<!-- start template imports/config-default.html -->
 <script>
     Reveal.initialize({
         // make presentation responsive
@@ -33,36 +33,36 @@
         controlsTutorial: false,
         // broadcast plugin configuration
         dependencies: [
-            { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+            { src: '../lib/js/classList.js', condition: function() { return !document.body.classList; } },
             // Interpret Markdown in <section> elements
-            { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-            { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+            { src: '../plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+            { src: '../plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
             // Syntax highlight for <code> elements
-            { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+            { src: '../plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
             // Accessibility plugin
-            { src: 'plugin/accessibility/helper.js', async: true, condition: function() {
+            { src: '../plugin/accessibility/helper.js', async: true, condition: function() {
                 	return !!document.body.classList; } },
             // Zoom in and out with Alt+click
-            { src: 'plugin/zoom-js/zoom.js', async: true },
+            { src: '../plugin/zoom-js/zoom.js', async: true },
             // Speaker notes
-            { src: 'plugin/notes/notes.js', async: true },
+            { src: '../plugin/notes/notes.js', async: true },
             // MathJax
-            { src: 'plugin/math/math.js', async: true },
+            { src: '../plugin/math/math.js', async: true },
             // Anything plugin to use json to determine object behavior
-            { src: 'plugin/anything/anything.js', async: true },
+            { src: '../plugin/anything/anything.js', async: true },
             // Chalkboard with 'b'
-            { src: 'plugin/chalkboard/chalkboard.js', async: true },
+            { src: '../plugin/chalkboard/chalkboard.js', async: true },
             // Fullscreen for elements with attribute data-fullscreen
-            { src: 'plugin/fullscreen/fullscreen.js', async: true },
+            { src: '../plugin/fullscreen/fullscreen.js', async: true },
             // Menu plugin with reveal.js-menu
-            { src: 'plugin/reveal.js-menu/menu.js', async: true },
+            { src: '../plugin/reveal.js-menu/menu.js', async: true },
             // Toolbar plugin with reveal.toolbar
-            { src: 'plugin/reveal.js-toolbar/toolbar.js', async: true },
+            { src: '../plugin/reveal.js-toolbar/toolbar.js', async: true },
             // Spreadsheet plugin
-            { src: 'plugin/spreadsheet/spreadsheet.js', async: true },
+            { src: '../plugin/spreadsheet/spreadsheet.js', async: true },
             // chart plugin with csv loader
-            { src: 'plugin/chart/Chart.min.js', async: true },
-            { src: 'plugin/chart/csv2chart.js', async: true },
+            { src: '../plugin/chart/Chart.min.js', async: true },
+            { src: '../plugin/chart/csv2chart.js', async: true },
         ],
         // custom keyboard mapping
         keyboard: {
@@ -83,4 +83,4 @@
         }
     });
 </script>
-<!-- end template imports-reveal-config.html -->
+<!-- end template imports/config-default.html -->
