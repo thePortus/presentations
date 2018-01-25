@@ -39,14 +39,14 @@
 
 <div class="slide">
     <header><h3>Measuring Burials</h3></header>
-    <content>![Grave Schema](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/gridscheme.jpg)</content>
+    <content>![Grave Schema](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/grid-scheme.jpg)</content>
 </div>
 
 --
 
 <div class="slide slide-2-col">
     <header><h2>Grid Sketching</h2></header>
-    <left-col>![Skeleton Measurements](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/grid-skel.jpg)</left-col>
+    <left-col>![Skeleton Measurements](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/grid-skeleton.jpg)</left-col>
     <right-col>![Grid Sketch](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/grid-sketch.jpg)</right-col>
 </div>
 
@@ -139,16 +139,14 @@
 
 <div class="slide">
     <header><h3>Readings, Prosody, and Scansion</h3></header>
-    <content>![Wide-angle photograph of a back yard](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/truths-in-history/1-macro-view.jpg)</content>
+    <content>![Latin Prosody](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/philology-scansion.jpg)</content>
 </div>
-
-![Latin Prosody](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/philology-scansion.jpg)
 
 --
 
 <div class="slide">
     <header><h3>Etymological Relationships</h3></header>
-    <content>![Manuscript Transmission Diagram](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/philology-kfr.PNG)</content>
+    <content>![Manuscript Transmission Diagram](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/philology-kfr.png)</content>
 </div>
 
 --
@@ -210,19 +208,19 @@
 
 <div class="slide">
     <header><h3>Epigraphy: Close Readings</h3></header>
-    <content>![Roman Epigraphic Habit](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/epigraphy-close.png)</content>
+    <content>![Decree from Pharos](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/epigraphy-close.jpg)</content>
 </div>
 
 --
 
 <div class="slide">
     <header><h3>Epigraphy: The Roman 'Habit'</h3></header>
-    <content>![Roman Epigraphic Habit](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/epigraphy-roman-habit.jpg)</content>
+    <content>![Roman Epigraphic Habit](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/epigraphy-habit-roman.jpg)</content>
 </div>
 
 --
 
 <div class="slide">
     <header><h3>Epigraphy: The Athenian 'Habit'</h3></header>
-    <content>![Athenian Epigraphic Habit](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/epigraphy-athens-habit.jpg)</content>
+    <content>![Athenian Epigraphic Habit](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/epigraphy-habit-athenian.jpg)</content>
 </div>
