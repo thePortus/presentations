@@ -23,7 +23,7 @@
 
 <div class="slide slide-2-col">
     <header><h2>The 'Golden Age' of Archaeology</h2></header>
-    <left-col>![Heinrich Schliemann](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/schliemann-heinrich.png)</left-col>
+    <left-col>![Heinrich Schliemann](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/schliemann-heinrich.jpg)</left-col>
     <right-col>![Death Mask of Agamemnon](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/agamemnon-mask.jpg)</right-col>
 </div>
 
