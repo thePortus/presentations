@@ -1,67 +1,117 @@
-#### Data Outbreak
+<div class="slide slide-title">
+    <header>
+        <h1>The Power of the Digital Archive</h1>
+    </header>
+</div>
+
+--
+
+<div class="slide">
+    <header><h3>Population and Connectivity</h3></header>
+    <content>
+        ![Population and Internet Connectivity](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/archive/internet-power.jpg)
+    </content>
+</div>
+
+--
+
+<div class="slide">
+    <header><h3>Growth Projections</h3></header>
+    <content>
+        ![Data Projections](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/archive/2012-data.jpg)
+    </content>
+    <footer>* Now dated, growth exceeded estimates</footer>
+</div>
+
+--
+
+<div class="slide">
+    <header><h3>Historic Growth</h3></header>
+    <content>
+        ![Data Projections](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/archive/2015-data.png)
+    </content>
+</div>
 
 ---
 
-##### Population and Connectivity
-
-![Population and Internet Connectivity](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/archive/internet-power.jpg)
-
---
-
-##### Growth Projections
-
-![Data Projections](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/archive/2012-data.jpg)
-
-Now dated (they underestimated growth)
+<div class="slide slide-title">
+    <header><h2>Connectivity</h2></header>
+</div>
 
 --
 
-##### Historic Growth
+<div class="slide">
+    <header><h3>Connectivity - Internet Server Network</h3></header>
+    <content>
+        ![Global Connectivity](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/archive/internet-galaxy.jpg)
+    </content>
+</div>
 
-![Data Projections](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/archive/2015-data.png)
+--
+
+<div class="slide">
+    <header><h3>Connectivity - AWS Main Piplines</h3></header>
+    <content>
+        ![Global Connectivity](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/archive/aws-datafarms.jpg)
+    </content>
+</div>
 
 ---
 
-##### Connectivity - Internet Server Network
-
-![Global Connectivity](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/archive/internet-galaxy.jpg)
-
---
-
-##### Connectivity - AWS Main Piplines
-
-![Global Connectivity](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/archive/aws-datafarms.jpg)
-
----
-
-##### Impact - Server Farm 1
-
-![Server Farms](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/archive/server-farm-1.jpg)
+<div class="slide slide-title">
+    <header><h2>Impact</h2></header>
+</div>
 
 --
 
-##### Impact - Server Farm 2
-
-![Server Farms](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/archive/server-farm-2.jpg)
-
---
-
-##### Impact - Server Farm 3
-
-![Server Farms](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/archive/server-farm-3.jpg)
+<div class="slide">
+    <header><h3>Impact - Server Farm 1</h3></header>
+    <content>
+        ![Server Farms](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/archive/server-farm-1.jpg)
+    </content>
+</div>
 
 --
 
-##### Impact - Server Barge
-
-![Server Farms](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/archive/server-farm-4.png)
+<div class="slide">
+    <header><h3>Impact - Server Farm 2</h3></header>
+    <content>
+        ![Server Farms](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/archive/server-farm-2.jpg)
+    </content>
+</div>
 
 --
 
-##### Impact - Sample Power Distribution
+<div class="slide">
+    <header><h3>Impact - Server Farm 3</h3></header>
+    <content>
+        ![Server Farms](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/archive/server-farm-3.jpg)
+    </content>
+</div>
 
-![Server Farms](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/archive/server-power.jpg)
+--
 
----
+<div class="slide">
+    <header><h3>Impact - Server Barge</h3></header>
+    <content>
+        ![Server Farms](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/archive/server-farm-4.png)
+    </content>
+</div>
 
-![Building Big Data](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/archive/google-maps.jpg)
+--
+
+<div class="slide">
+    <header><h3>Impact - Sample Power Distribution</h3></header>
+    <content>
+        ![Server Farms](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/archive/server-power.jpg)
+    </content>
+</div>
+
+--
+
+<div class="slide">
+    <header><h3>Impact - Building Big Data</h3></header>
+    <content>
+        ![Building Big Data](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/archive/google-maps.jpg)
+    </content>
+</div>

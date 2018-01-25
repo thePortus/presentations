@@ -35,6 +35,8 @@ Head to `localhost:8000` or `127.0.0.1:8000` to view the presentations
 - **js/** Like above but for JavaScript
 - **plugin/** Components that have been developed as extensions to reveal.js
 - **lib/** All other third party assets (JavaScript, CSS, fonts)
+- **custom-css** CSS by me for slide layout, and any custom CSS you want to add
+- **custom-md** Markdown files for the content of individual presentations
 
 ## Credits
 Built with [Reveal.js](http://revealjs.com/), A framework for easily creating beautiful presentations using HTML, by [Hakim El Hattab](http://hakim.se)

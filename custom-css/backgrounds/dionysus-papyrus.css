@@ -1,0 +1,7 @@
+/* custom css, edit to your needs */
+html body {
+    background: url("https://theportus.nyc3.digitaloceanspaces.com/static/presentations/common/backgrounds/dionysus-papyrus.jpg");
+    background-position:center;
+    background-size: 100%;
+}
+/* put your extra css here or add additional css files*/
