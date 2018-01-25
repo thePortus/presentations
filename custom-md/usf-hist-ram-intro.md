@@ -22,14 +22,14 @@
 <div class="slide">
     <header><h3>The 'How': Coursework and End Product</h3></header>
     <content><ul>
-            <li>Weekly Readings/Prompts</li><li>Course Discussion</li><li>Leading Discussion/Crafting Prompts</li><li>Grad Student Requirements</li><li>Office Hours</li><li>End Product<ul><li>Collaboration</li><li>Final Paper</li><li>Milestones<ul><li>Source Analysis</li><li>Proposal/Bibliography</li><li>Rough Draft</li></ul></li></ul></li></ul></content>
+            <li>Weekly Readings/Prompts</li><li>Course Discussion</li><li>Leading Discussion/Crafting Prompts</li><li>Grad Student Requirements</li><li>Office Hours</li><li>End Product<ul><li>Collaboration</li><li>Final Paper</li><li>Milestones<ul><li>Source Analysis</li><li>Proposal/Bibliography</li><li>Rough Draft</li></ul></li></ul></li></ul>
+    </content>
 </div>
 
 --
 
-<div class="slide">
+<div class="slide slide-title">
     <header><h2>Approaches, Scales, and Themes</h2></header>
-    <content></content>
 </div>
 
 --
@@ -79,8 +79,6 @@
 
 --
 
-###### Votive Dedications
-
 <div class="slide">
     <header><h3>Votive Dedications</h3></header>
     <content>![Votive Dedications](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/sacrifice-3.jpg)</content>
@@ -90,77 +88,51 @@
 
 <div class="slide slide-title">
     <header><h2>Religion: High and Low</h2></header>
-    <content></content>
 </div>
 
 --
 
-##### Epicurus
-
-<div class="layout">
-    <div class="layout-row">
-        <div class="layout-col img-container flex-grow">
-            ![Philosophy - Epicurus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/philosophy-epicurus.jpg)
-        </div>
-        <div class="layout-col text-container">
-            Thus that which is the most awful of evils, death, is nothing to us, since when we exist there is no death, and when there is death we do not exist.
-        </div>
-    </div>
+<div class="slide slide-2-col">
+    <header><h2>Epicurus</h2></header>
+    <left-col>![Philosophy - Epicurus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/philosophy-epicurus.jpg)</left-col>
+    <right-col>Thus that which is the most awful of evils, death, is nothing to us, since when we exist there is no death, and when there is death we do not exist.</right-col>
 </div>
 
 --
 
-##### Xenophanes
+<div class="slide slide-2-col">
+    <header><h2>Xenophanes</h2></header>
+    <left-col>![Philosophy - Xenophanes](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/philosophy-xenophanes.jpg)</left-col>
+    <right-col>
+        Homer and Hesiod have attributed to the gods everything that is a shame and reproach among men, stealing and committing adultery and deceiving each other.
 
-<div class="layout">
-    <div class="layout-row">
-        <div class="layout-col img-container flex-grow">
-            ![Philosophy - Xenophanes](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/philosophy-xenophanes.jpg)
-        </div>
-        <div class="layout-col text-container">
-            Homer and Hesiod have attributed to the gods everything that is a shame and reproach among men, stealing and committing adultery and deceiving each other.
+        But mortals consider that the gods are born, and that they have clothes and speech and bodies like their own. The Ethiopians say that their gods are snub-nosed and black, the Thracians that theirs have light blue eyes and red hair.
 
-            But mortals consider that the gods are born, and that they have clothes and speech and bodies like their own. The Ethiopians say that their gods are snub-nosed and black, the Thracians that theirs have light blue eyes and red hair.
-
-            But if cattle and horses or lions had hands, or were able to draw with their hands and do the works that men can do, horses would draw the forms of the gods like horses, and cattle like cattle, and they would make their bodies such as they each had themselves.
-        </div>
-    </div>
+        But if cattle and horses or lions had hands, or were able to draw with their hands and do the works that men can do, horses would draw the forms of the gods like horses, and cattle like cattle, and they would make their bodies such as they each had themselves.
+    </right-col>
 </div>
 
 --
 
-##### Magic
-
-![Defixionum, Curse Tablet](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/defixionum.jpg)
-
---
-
-##### Magic
-
-<div class="layout">
-    <div class="layout-row">
-        <div class="layout-col img-container">
-            ![Amulets and Ma'at Fiture](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-magic-1.jpg)
-        </div>
-        <div class="layout-col img-container">
-            ![Magic Amulets](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-magic-2.jpg)
-        </div>
-    </div>
+<div class="slide">
+    <header><h3>Magic</h3></header>
+    <content>![Defixionum, Curse Tablet](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/defixionum.jpg)</content>
 </div>
 
 --
 
-##### Magic
+<div class="slide slide-2-col">
+    <header><h2>Magic</h2></header>
+    <left-col>![Amulets and Ma'at Fiture](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-magic-1.jpg)</left-col>
+    <right-col>![Magic Amulets](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-magic-2.jpg)</right-col>
+</div>
 
-<div class="layout">
-    <div class="layout-row">
-        <div class="layout-col img-container">
-            ![Sacred Shovel](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-shovel.jpg)
-        </div>
-        <div class="layout-col img-container">
-            ![Votive Tablet with Foot Impressions](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-isaeum.jpg)
-        </div>
-    </div>
+--
+
+<div class="slide slide-2-col">
+    <header><h2>Magic</h2></header>
+    <left-col>![Sacred Shovel](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-shovel.jpg)</left-col>
+    <right-col>![Votive Tablet with Foot Impressions](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-isaeum.jpg)</right-col>
 </div>
 
 ---
@@ -171,24 +143,18 @@
 
 --
 
-##### Tribute Lists
-
-![Athenian Tribute List](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/imperialism-athenian-tribute-list.jpg)
+<div class="slide">
+    <header><h3>Tribute Lists</h3></header>
+    <content>![Athenian Tribute List](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/imperialism-athenian-tribute-list.jpg)</content>
+</div>
 
 --
 
-##### The Colosseum
-
-<div class="layout">
-    <div class="layout-row">
-        <div class="layout-col img-container">
-            ![Colosseum](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/imperialism-colosseum.jpg)
-        </div>
-        <div class="layout-col img-container">
-            ![Colosseum dedicatory inscription as reconstructed by Géza Alföldy Alfody](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/imperialism-alfoldy-inscription.gif)
-        </div>
-    </div>
-</div>s
+<div class="slide slide-2-col">
+    <header><h2>The Colosseum</h2></header>
+    <left-col>![Colosseum](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/imperialism-colosseum.jpg)</left-col>
+    <right-col>![Colosseum dedicatory inscription as reconstructed by Géza Alföldy Alfody](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/imperialism-alfoldy-inscription.gif)</right-col>
+</div>
 
 ---
 
@@ -198,25 +164,17 @@
 
 --
 
-
-##### Libellus
-
-
-![Libellum](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/persecution-libellum-2.jpg)
+<div class="slide">
+    <header><h3>Libellus</h3></header>
+    <content>![Libellum](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/persecution-libellum-2.jpg)</content>
+</div>
 
 --
 
-##### Persecution: Similarities
-
-<div class="layout">
-    <div class="layout-row flex-grow">
-        <div class="layout-col img-container">
-            ![Table of the Marytrs](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/persecution-tabula-martyrorum.jpg)
-        </div>
-        <div class="layout-col img-container">
-            ![Senatus Consultus de Bacchinalibus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/scu-de-bacchinalibus.jpg)
-        </div>
-    </div>
+<div class="slide slide-2-col">
+    <header><h2>Persecution: Similarities</h2></header>
+    <left-col>![Table of the Marytrs](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/persecution-tabula-martyrorum.jpg)</left-col>
+    <right-col>![Senatus Consultus de Bacchinalibus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/scu-de-bacchinalibus.jpg)</right-col>
 </div>
 
 ---
@@ -227,72 +185,55 @@
 
 --
 
-##### Greeks in Egypt
-
-<div class="layout">
-    <div class="layout-row">
-        <div class="layout-col img-container">
-            ![Greek Grave in Egypt from the Archaic period](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-syncretism-1.jpg)
-        </div>
-        <div class="layout-col img-container">
-            ![Later Greek Grave in Egypt](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-syncretism-2.jpg)
-        </div>
-    </div>
+<div class="slide slide-2-col">
+    <header><h2>Greeks in Egypt</h2></header>
+    <left-col>![Greek Grave in Egypt from the Archaic period](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-syncretism-1.jpg)</left-col>
+    <right-col>![Later Greek Grave in Egypt](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-syncretism-2.jpg)</right-col>
 </div>
 
 --
 
-##### More Greek Graves
-
-<div class="layout">
-    <div class="layout-row">
-        <div class="layout-col img-container">
-            ![Later Greek Grave in Egypt](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-syncretism-3.jpg)
-        </div>
-        <div class="layout-col img-container">
-            ![Later Greek Grave in Egypt](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-syncretism-4.jpg)
-        </div>
-    </div>
+<div class="slide slide-2-col">
+    <header><h2>More Greek Graves</h2></header>
+    <left-col>![Later Greek Grave in Egypt](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-syncretism-3.jpg)</left-col>
+    <right-col>![Later Greek Grave in Egypt](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-syncretism-4.jpg)</right-col>
 </div>
 
 --
 
-##### Symbols: Isis and Mary
-
-![Isis and Horus contrasted with Jesus and Mary](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-isis-mary.jpg)
-
---
-
-##### Symbols: A Grave
-
-![Christian grave marked with Dis Manibus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/syncretism-1.jpg)
-
---
-
-##### Symbols: Halos
-
-<div class="layout">
-    <div class="layout-row">
-        <div class="layout-col img-container">
-            ![Sol Invictus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/syncretism-3.jpg)
-        </div>
-        <div class="layout-col img-container">
-            ![Jesus as Sol Invictus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/syncretism-4.jpg)
-        </div>
-    </div>
+<div class="slide">
+    <header><h3>Symbols: Isis and Mary</h3></header>
+    <content>![Isis and Horus contrasted with Jesus and Mary](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-isis-mary.jpg)</content>
 </div>
 
 --
 
-##### Roman Catacombs
-
-![Rome, Jesus as Orpheus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/syncretism-2.jpg)
+<div class="slide">
+    <header><h3>Symbols: A Grave</h3></header>
+    <content>![Christian grave marked with Dis Manibus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/syncretism-1.jpg)</content>
+</div>
 
 --
 
-##### Brazier from Alexandria
+<div class="slide slide-2-col">
+    <header><h2>Symbols: Halos</h2></header>
+    <left-col>![Sol Invictus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/syncretism-3.jpg)</left-col>
+    <right-col>![Jesus as Sol Invictus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/syncretism-4.jpg)</right-col>
+</div>
 
-![Brazier with inscribed in Hebrew with Greek letters](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-brazier.jpg)
+--
+
+<div class="slide">
+    <header><h3>Roman Catacombs</h3></header>
+    <content>![Rome, Jesus as Orpheus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/syncretism-2.jpg)</content>
+</div>
+
+--
+
+<div class="slide">
+    <header><h3>Brazier from Alexandria</h3></header>
+    <content>![Brazier with inscribed in Hebrew with Greek letters](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-brazier.jpg)</content>
+</div>
 
 ---
 
@@ -302,49 +243,46 @@
 
 --
 
-##### Church Diagrams
-
-<div class="layout">
-    <div class="layout-row">
-        <div class="layout-col img-container">
-            ![Dura-Europas, bapistry Diagram](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-church-diagram-1.png)
-        </div>
-        <div class="layout-col img-container">
-            ![Dura-Europas, church diagram](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-church-diagram-2.jpg)
-        </div>
-    </div>
+<div class="slide slide-2-col">
+    <header><h2>Mithraeum</h2></header>
+    <left-col>![Dura-Europas, Mithraeum](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-mithraeum-1.jpg)</left-col>
+    <right-col>![Dura-Europas Mithraeum close up 2](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-mithraeum-2.jpg)</right-col>
 </div>
 
 --
 
-##### Mithraeum
-
-![Dura-Europas, Mithraeum](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-mithraeum-1.jpg)
-
-##### Mithraeum, pt. 2
-
-![Dura-Europas Mithraeum close up 2](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-mithraeum-2.jpg)
+<div class="slide slide-2-col">
+    <header><h2>The 'Church'</h2></header>
+    <left-col>![Dura-Europas, bapistry Diagram](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-church-diagram-1.png)</left-col>
+    <right-col>![Dura-Europas, church diagram](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-church-diagram-2.jpg)</right-col>
+</div>
 
 --
 
-##### Baptistry
-
-![Dura-Europas, bapistry](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-baptistry-1.jpg)
-
---
-
-##### Baptistry, pt. 2
-
-![Dura-Europas baptistry, close Up](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-baptistry-2.jpg)
+<div class="slide slide-2-col">
+    <header><h2>Baptistry</h2></header>
+    <left-col>![Dura-Europas, bapistry](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-baptistry-1.jpg)</left-col>
+    <right-col>![Dura-Europas baptistry, close Up](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-baptistry-2.jpg)</right-col>
+</div>
 
 --
 
-##### Synagoge
-
-![Dura-Europas, mural from Synagoge](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-synagoge-1.jpg)
+<div class="slide slide-2-col">
+    <header><h2>Persecution: Similarities</h2></header>
+    <left-col>![Table of the Marytrs](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/persecution-tabula-martyrorum.jpg)</left-col>
+    <right-col>![Senatus Consultus de Bacchinalibus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/scu-de-bacchinalibus.jpg)</right-col>
+</div>
 
 --
 
-##### Saul & David
+<div class="slide">
+    <header><h3>Synagoge</h3></header>
+    <content>![Dura-Europas, mural from Synagoge](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-synagoge-1.jpg)</content>
+</div>
 
-![Dura-Europas, Saul annoints David wearing togas](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-synagoge-2.jpg)
+--
+
+<div class="slide">
+    <header><h3>Synagoge</h3></header>
+    <content>![Dura-Europas, Saul annoints David wearing togas](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-synagoge-2.jpg)</content>
+</div>
