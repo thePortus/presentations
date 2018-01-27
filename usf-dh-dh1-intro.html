@@ -5,8 +5,8 @@
         <meta name="author" content="David Thomas">
         <title>Digital Presentations</title>
         <!-- external meta and css imports -->
-		<link rel="import" href="imports/meta-content.html">
-		<link rel="import" href="imports/css-libs.html">
+		<link rel="import" href="imports-meta-content.html">
+		<link rel="import" href="imports-css-libs.html">
         <!-- extra css for slide layouts & styling -->
         <link rel="stylesheet" href="custom-css/layout/slides.css">
         <link rel="stylesheet" href="custom-css/layout/text.css">
@@ -30,7 +30,10 @@
 			</div> <!-- /slides -->
 		</div> <!-- /reveal -->
 
-        <link rel="import" href="imports/js-libs.html">
-		<link rel="import" href="imports/config-default.html">
+		<link rel="import" href="imports-js-libs.html">
+		<script src="reveal-configs.js"></script>
+		<script>
+			Reveal.initialize(defaultConfig);
+		</script>
 	</body>
 </html>
