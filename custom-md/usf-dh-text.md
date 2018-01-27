@@ -55,7 +55,7 @@
 <div class="slide">
     <header><h3>Binary Sentences</h3></header>
     <content>
-        ![Binary Sentence Structure](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/texts/binary-sentence.jpg)
+        ![Binary Sentence Structure](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/text/binary-sentence.jpg)
     </content>
 </div>
 
@@ -73,7 +73,7 @@
 <div class="slide">
     <header><h3>Topic Modeling</h3></header>
     <content>
-        ![The Goal of Topic Modeling](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/texts/lda-concept-1.jpg)
+        ![The Goal of Topic Modeling](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/text/lda-concept-1.jpg)
     </content>
 </div>
 
@@ -82,7 +82,7 @@
 <div class="slide">
     <header><h3>Topic Modeling</h3></header>
     <content>
-        ![LDA Concepts in the Text](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/texts/lda-concept-2.png)
+        ![LDA Concepts in the Text](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/text/lda-concept-2.png)
     </content>
 </div>
 
@@ -91,7 +91,7 @@
 <div class="slide">
     <header><h3>Topic Modeling</h3></header>
     <content>
-        ![Topics and Documents](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/texts/lda-concept-3.png)
+        ![Topics and Documents](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/text/lda-concept-3.png)
     </content>
 </div>
 
@@ -109,19 +109,28 @@
 <div class="slide">
     <header><h3>Tools</h3></header>
     <content>
-
-- General
-    - Voyant
-    - OverviewDocs
-    - AntConc
-- Programming
-    - curl
-    - BeautifulSoup
-    - xPath
-- Topic Modeling
-    - TopicModelingTool GUI
-    - Stanford Topic Modeling Tool
-    - [JSTOR Topicgraph](http://labs.jstor.org/topicgraph/#History)
-
+        <ul>
+            <li>General
+                <ul>
+                    <li>Voyant</li>
+                    <li>OverviewDocs</li>
+                    <li>AntConc</li>
+                </ul>
+            </li>
+            <li>Programming
+                <ul>
+                    <li>curl</li>
+                    <li>BeautifulSoup</li>
+                    <li>xPath</li>
+                </ul>
+            </li>
+            <li>Topic Modeling
+                <ul>
+                    <li>TopicModelingTool GUI</li>
+                    <li>Stanford Topic Modeling Tool</li>
+                    <li>JSTOR Topicgraph](http://labs.jstor.org/topicgraph/#History)</li>
+                </ul>
+            </li>
+        </ul>
     </content>
 </div>
