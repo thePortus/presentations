@@ -1,180 +1,127 @@
-## Archaeology
+<div class="slide slide-title">
+    <header>
+        <h1>Data and Digital Inquiry</h1>
+    </header>
+</div>
 
 --
 
-### Dating, Relative and Absolute
-
-![Carbon Dating](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/dating-carbon.gif)
-![Stratigraphic Dating](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/dating-stratigraphy.jpg)
-
---
-
-### The 'Golden Age' of Archaeology
-
-![Heinrich Schliemann](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/hschliemann.png)
-![Death Mask of Agamemnon](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/agamemnon-mask.jpg)
+<div class="slide slide-title">
+    <header><h2>USF in the News</h2></header>
+</div>
 
 --
 
-### Trend and Grid Digs
-
-![Trench Archaeology](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/trench-arch.jpg)
-![Grid Archaeology](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/grid-site.jpg)
-
---
-
-### Measuring Burials
-
-![Grave Schema](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/gridscheme.jpg)
+<div class="slide">
+    <header><h3>Target: Access World News</h3></header>
+    <content>
+        ![Newsbank - Access World News Database](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/digital-inquiry/access-world-news.png)
+    </content>
+</div>
 
 --
 
-### Grid Sketching
-
-![Skeleton Measurements](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/grid-skel.jpg)
-![Grid Sketch](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/grid-sketch.jpg)
-
---
-
-### Survey Archaeology
-
-![Surface Survey](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/survey-surface.jpg)
+<div class="slide">
+    <header><h3>Data Gathering: Webscraper</h3></header>
+    <content>
+        ![Webscraper.io Homepage](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/digital-inquiry/webscraper-1.png)
+    </content>
+</div>
 
 --
 
-![Aerial Survey](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/survey-aerial.jpg)
-![Resistivity Survey](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/survey-resistivity.jpg)
+<div class="slide">
+    <header><h3>Data Gathering: Webscraper</h3></header>
+    <content>
+        ![Using Webscraper on Access World News](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/digital-inquiry/webscraper-2.png)
+    </content>
+</div>
 
 --
 
-### Scholarly Caution
-
-![Sophie Schliemann](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/sschliemann.jpg)
+<div class="slide">
+    <header><h3>Data Gathering: Spreadsheet</h3></header>
+    <content>
+        ![Scraped Data in Excel](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/digital-inquiry/spreadsheet.png)
+    </content>
+</div>
 
 --
 
-### Scholarly Caution
+<div class="slide">
+    <header><h3>Visualization: Tableau</h3></header>
+    <content>
+        ![Using Webscraper on Access World News](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/digital-inquiry/tableau.png)
+    </content>
+</div>
 
-![Motel of Mysteries](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/motel-headress.jpg)
-![Motel of Mysteries](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/motel-altar.jpg)
+--
+
+<div class="slide">
+    <header><h3>Visualization: Tableau</h3></header>
+        <content>
+            <div class='tableauPlaceholder' id='viz1518376165584' style='position: relative'>
+                <noscript>
+                    <a href='#'>
+                        <img alt='USF in the News ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;USFNews2011-2016Stories&#47;USFandtheNews2011-2016&#47;1_rss.png' style='border: none' />
+                    </a>
+                </noscript>
+                <object class='tableauViz'  style='display:none;'>
+                    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                    <param name='embed_code_version' value='3' />
+                    <param name='site_root' value='' />
+                    <param name='name' value='USFNews2011-2016Stories&#47;USFandtheNews2011-2016' />
+                    <param name='tabs' value='no' />
+                    <param name='toolbar' value='yes' />
+                    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;USFNews2011-2016Stories&#47;USFandtheNews2011-2016&#47;1.png' />
+                    <param name='animate_transition' value='yes' />
+                    <param name='display_static_image' value='yes' />
+                    <param name='display_spinner' value='yes' />
+                    <param name='display_overlay' value='yes' />
+                    <param name='display_count' value='yes' />
+                </object>
+            </div>
+        </content>
+</div>
 
 ---
 
-## Papyrology/Paleography
+<div class="slide slide-title">
+    <header><h2>Publishing Open (or Derived) Data</h2></header>
+</div>
 
 --
 
-### Making a Papyrus
-
-![Ancient Scroll](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/scroll.jpg)
-![Modern Papyrus Making](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/papyrus-manufacture.jpg)
-
---
-
-### Finding Papyri
-
-![Cairo Genizah](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/papyrus-genizah.jpg)
+<div class="slide">
+    <header><h3>Git and Data Transparency</h3></header>
+    <content>
+        ![Git Repository History](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/digital-inquiry/github-2.png)
+    </content>
+</div>
 
 --
 
-![Papyrus Fragment](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/papyrus-frags.jpg)
-![Papyrus Find](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/papyrus-croc.gif)
+<div class="slide">
+    <header><h3>GitHub (And Other Repositories)</h3></header>
+    <content>
+        ![GitHub Repository Interface](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/digital-inquiry/github-1.png)
+    </content>
+</div>
 
 --
 
-### Vellum of Pergamon
-
-![Stretching the Hide](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/vellum-stretch.jpg)
-
---
-
-### It Puts the Lotion on it's Skin
-
-![Vellum with Hair](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/vellum-follicles.jpg)
+<div class="slide">
+    <header><h3>Writing Methods and Commentary: MarkDown</h3></header>
+    <content>
+        ![GitHub Repository Interface](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/digital-inquiry/github-1.png)
+    </content>
+</div>
 
 --
 
-### Palimpsests: New Texts
-
-![Vellum with Hair](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/vellum-palimpsest.jpg)
-
----
-
-## Philology
-
---
-
-### Readings, Prosody, and Scansion
-
-![Latin Prosody](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/philology-scansion.jpg)
-
---
-
-### Etymological Relationships
-
-![Manuscript Transmission Diagram](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/philology-kfr.PNG)
-
---
-
-### Textual Transmission
-
-![Manuscript Transmission Diagram](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/philology-transmission.jpg)
-
----
-
-### Numismatics
-
---
-
-### Coins: Hoards
-
-![Economic Evidence](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/coin-hoard.jpg)
-
---
-
-### Coins: Manufacture
-
-![Striking coins](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/coin-manufacture.gif)
-![Coin Die](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/coin-die.jpg)
-
---
-
-### Coins: Economic Evidence
-
-![Economic Evidence](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/coin-economy.jpg)
-
---
-
-### Coins: Ideological and Cultural Evidence
-
-![Economic Evidence](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/coin-constantine.jpg)
-
----
-
-### Epigraphy
-
---
-
-### Epigraphy: Texts of a Different Kind
-
-![Laudatio Turiae](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/epigraphy-inscription.jpg)
-
---
-
-### Epigraphy: Close Readings
-
-![Roman Epigraphic Habit](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/epigraphy-close.png)
-
---
-
-### Epigraphy: The Roman 'Habit'
-
-![Roman Epigraphic Habit](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/epigraphy-roman-habit.jpg)
-
---
-
-### Epigraphy: The Athenian 'Habit'
-
-![Athenian Epigraphic Habit](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/tools-of-the-trade/epigraphy-athens-habit.jpg)
-
---
+<div class="slide">
+    <header><h3>Project Hosting: GitPages, ReadTheDocs</h3></header>
+    <content>
+        ![GitHub Repository Interface](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/digital-inquiry/github-1.png)
+    </content>
+</div>
