@@ -40,22 +40,6 @@
 ---
 
 <div class="slide slide-title">
-    <header><h2>An Example: Sexual Politics of a Public High School</h2></header>
-</div>
-
---
-
-<div class="slide">
-    <header><h3>Sexual Interaction Survey for Jefferson High School</h3></header>
-    <content>
-        ![Network Graph Examples - Sexual Interaction of Jefferson Public High School](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/public-school-network.png)
-        <caption><a href="http://www.cis.upenn.edu/~mkearns/teaching/NetworkedLife/teensex.pdf" target="_blank">source</a></caption>
-    </content>
-</div>
-
---
-
-<div class="slide slide-title">
     <header><h2>Types of Graphs</h2></header>
 </div>
 
@@ -101,6 +85,22 @@
     <header><h3>Keep it Simple - The Dangers of Many Network Graphs</h3></header>
     <content>
         ![Bad Visualizations - The Spaghetti Monster](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/spaghetti-monster.png)
+    </content>
+</div>
+
+---
+
+<div class="slide slide-title">
+    <header><h3>An Example: Sexual Politics of a Public High School (<a href="http://www.cis.upenn.edu/~mkearns/teaching/NetworkedLife/teensex.pdf" alt="Monte Testaccio Trade Network Source" target="_blank">source</a>)</h2></header>
+</div>
+
+--
+
+<div class="slide">
+    <header><h3>Sexual Interaction Survey for Jefferson High School (<a href="http://www.cis.upenn.edu/~mkearns/teaching/NetworkedLife/teensex.pdf" alt="Monte Testaccio Trade Network Source" target="_blank">source</a>)</h3></header>
+    <content>
+        ![Network Graph Examples - Sexual Interaction of Jefferson Public High School](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/public-school-network.png)
+        <caption><a href="http://www.cis.upenn.edu/~mkearns/teaching/NetworkedLife/teensex.pdf" target="_blank">source</a></caption>
     </content>
 </div>
 
@@ -155,7 +155,7 @@
 --
 
 <div class="slide">
-    <header><h3>The Topography of the Volga River Valley</h3></header>
+    <header><h3>The Topography of the Volga River Valley(<a href="http://www.analytictech.com/networks/pitts.htm" alt="Moscow Network Source" target="_blank">source</a>)</h3> </header>
     <content>
         ![Map of the Volga River and its Cities](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/moscow-volga-1.png)
     </content>
@@ -164,7 +164,7 @@
 --
 
 <div class="slide">
-    <header><h3>The *Topology* of the Volga River Valley</h3></header>
+    <header><h3>The *Topology* of the Volga River Valley</h3>(<a href="http://www.analytictech.com/networks/pitts.htm" alt="Moscow Network Source" target="_blank">source</a>)</header>
     <content>
         ![Network Graph of Cities on the Volga River](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/moscow-volga-2.png)
     </content>
@@ -173,7 +173,7 @@
 --
 
 <div class="slide">
-    <header><h3>The *Monte*, A Hill of Broken Pottery</h3></header>
+    <header><h3>The *Monte*, A Hill of Broken Pottery (<a href="https://leifuss.files.wordpress.com/2008/08/dissertation.pdf" alt="Monte Testaccio Trade Network Source" target="_blank">source</a>)</h3></header>
     <content>
         ![The Monte Testaccio - Inside](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/monte-testaccio-inside.png)
     </content>
@@ -182,7 +182,7 @@
 --
 
 <div class="slide">
-    <header><h3>Digging through the Centuries</h3></header>
+    <header><h3>Digging through the Centuries (<a href="https://leifuss.files.wordpress.com/2008/08/dissertation.pdf" alt="Monte Testaccio Trade Network Source" target="_blank">source</a>)</h3></header>
     <content>
         ![The Monte Testaccio - Side View](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/monte-testaccio-side-view.png)
     </content>
@@ -191,7 +191,7 @@
 --
 
 <div class="slide">
-    <header><h3>Unraveling Networks of Exchange</h3></header>
+    <header><h3>Unraveling Networks of Exchange (<a href="https://leifuss.files.wordpress.com/2008/08/dissertation.pdf" alt="Monte Testaccio Trade Network Source" target="_blank">source</a>)</h3></header>
     <content>
         ![The Monte Testaccio - Amphora Maker's Mark](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/monte-testaccio-stamp.png)
     </content>
@@ -200,7 +200,7 @@
 --
 
 <div class="slide">
-    <header><h3>The Major Source: Baetica (Southern Spain)</h3></header>
+    <header><h3>The Major Source: Baetica (Southern Spain) (<a href="https://leifuss.files.wordpress.com/2008/08/dissertation.pdf" alt="Monte Testaccio Trade Network Source" target="_blank">source</a>)</h3></header>
     <content>
         ![The Monte Testaccio - Map of Baetica](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/monte-testaccio-baetica-1.png)
     </content>
@@ -209,7 +209,7 @@
 --
 
 <div class="slide">
-    <header><h3>The Topography of the Towns Mentioned in the Monte</h3></header>
+    <header><h3>The Topography of the Towns Mentioned in the Monte (<a href="https://leifuss.files.wordpress.com/2008/08/dissertation.pdf" alt="Monte Testaccio Trade Network Source" target="_blank">source</a>)</h3></header>
     <content>
         ![The Monte Testaccio - River Valley Map](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/monte-testaccio-baetica-2.png)
     </content>
@@ -218,18 +218,9 @@
 --
 
 <div class="slide">
-    <header><h3>The *Topology* of the Towns Mentioned in the Monte</h3></header>
+    <header><h3>The *Topology* of the Towns Mentioned in the Monte (<a href="https://leifuss.files.wordpress.com/2008/08/dissertation.pdf" alt="Monte Testaccio Trade Network Source" target="_blank">source</a>)</h3></header>
     <content>
         ![The Monte Testaccio - Network Topology](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/monte-testaccio-baetica-3.png)
-    </content>
-</div>
-
---
-
-<div class="slide">
-    <header><h3>Another Look at Trade - Roman Shipwrecks from Turkey and Trade Networks</h3></header>
-    <content>
-        ![Roman Shipwrecks - Hellenistic Period](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/shipwreck-network-1.png)
     </content>
 </div>
 
