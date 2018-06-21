@@ -40,6 +40,22 @@
 ---
 
 <div class="slide slide-title">
+    <header><h2>An Example: Sexual Politics of a Public High School</h2></header>
+</div>
+
+--
+
+<div class="slide">
+    <header><h3>Sexual Interaction Survey for Jefferson High School</h3></header>
+    <content>
+        ![Network Graph Examples - Sexual Interaction of Jefferson Public High School](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/public-school-network.png)
+        <caption><a href="http://www.cis.upenn.edu/~mkearns/teaching/NetworkedLife/teensex.pdf" target="_blank">source</a></caption>
+    </content>
+</div>
+
+--
+
+<div class="slide slide-title">
     <header><h2>Types of Graphs</h2></header>
 </div>
 
