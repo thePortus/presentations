@@ -1,0 +1,11 @@
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 100%;
+}
+
+.small-text {
+  font-size: 50%;
+}

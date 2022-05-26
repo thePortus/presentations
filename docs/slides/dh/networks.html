@@ -1,0 +1,285 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>DH - Analyzing Networks</title>
+
+		<link rel="stylesheet" href="../../dist/reset.css">
+		<link rel="stylesheet" href="../../dist/reveal.css">
+		<link rel="stylesheet" href="../../dist/theme/black.css">
+
+		<!-- custom css -->
+		<link rel="stylesheet" href="../../custom_css/common.css">
+		<link rel="stylesheet" href="../../custom_css/dh.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="../../plugin/highlight/monokai.css">
+	</head>
+	<body>
+
+		<div class="reveal">
+			<div class="slides">
+				<!-- 1st horizontal slide -->
+				<section>
+					<!-- section 1-1 -->
+					<section>
+						<h3>Networks in History</h3>
+					</section>
+					<!-- section 1-2 -->
+					<section>
+						<h3>The Origins of Network Theory</h3>
+					</section>
+					<!-- section 1-3 -->
+					<section>
+						<h3>Koenigsberg (Kaliningrad) and Drinking Games</h3>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/koenigsberg-1.png" alt="The Seven Bridges of Koenigsberg Map" />
+					</section>
+					<!-- section 1-4 -->
+					<section>
+						<h3>Relationships, Not Locations</h3>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/koenigsberg-2.png" alt="The Seven Bridges of Koenigsberg Simplified" />
+					</section>
+					<!-- section 1-5 -->
+					<section>
+						<h3>Mathematically Abstracted</h3>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/koenigsberg-3.png" alt="The Seven Bridges of Koenigsberg Abstracted" />
+					</section>
+				</section>
+
+				<!-- 2nd horizontal slide -->
+				<section>
+					<!-- section 2-1 -->
+					<section>
+						<h3>Types of Graphs</h3>
+					</section>
+					<!-- section 2-2 -->
+					<section>
+						<h3>Directed vrs. Undirected Edges</h3>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/graph-types-direction.png" alt="Network Graph Types - Directed vrs. Undirected Graphs Examples" />
+					</section>
+					<!-- section 2-3 -->
+					<section>
+						<h3>Weighted vrs. Unweighted Edges</h3>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/graph-types-weight1.png" alt="Network Graph Types - Weighted vrs. Unweighted Graphs Examples" />
+					</section>
+					<!-- section 2-4 -->
+					<section>
+						<h3>Quantifying Relationships</h3>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/graph-types-weight2.png" alt="Network Graph Types - Weighted vrs. Unweighted Graphs Examples" />
+					</section>
+					<!-- section 2-5 -->
+					<section>
+						<h3>Visually Displaying Information: Placement, Color, and Size</h3>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/graph-colors.png" alt="Visual Information - Color, Size, and Layout" />
+					</section>
+					<!-- section 2-6 -->
+					<section>
+						<h3>Keep it Simple - The Dangers of Many Network Graphs</h3>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/spaghetti-monster.png" alt="[Bad Visualizations - The Spaghetti Monster" />
+					</section>
+				</section>
+
+				<!-- 3rd horizontal slide -->
+				<section>
+					<!-- section 3-1 -->
+					<section>
+						<h3>An Example</h3>
+					</section>
+					<!-- section 3-2 -->
+					<section>
+						<h3>An Example: Sexual Politics of a Public High School</h3>
+						<p>
+							<a href="http://www.cis.upenn.edu/~mkearns/teaching/NetworkedLife/teensex.pdf" target="_blank">Link to Study</a>
+						</p>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/public-school-network.png" alt="Network Graph Examples - Sexual Interaction of Jefferson Public High School" />
+					</section>
+
+				<!-- 4rd horizontal slide -->
+				<section>
+					<!-- section 4-1 -->
+					<section>
+						<h3>Theory</h3>
+					</section>
+					<!-- section 4-2 -->
+					<section>
+						<h3>Social Network Analysis (SNA) Milestones</h3>
+						<ul>
+	            <li>1973, Mark Granovetter, <a href="https://sociology.stanford.edu/sites/default/files/publications/the_strength_of_weak_ties_and_exch_w-gans.pdf" target="_blank">The Strength of Weak Ties</a></li>
+	            <li>1988, Hanneman, <a href="http://faculty.ucr.edu/~hanneman/dynamics/dynamics.zip" target="_blank">Computer Assisted Theory Building: Modeling Dynamic Social Systems</a></li>
+	            <li>1993, Linton Freeman releases <a href="https://sites.google.com/site/ucinetsoftware/home" target="_blank">UCINET</a></li>
+	            <li>1996, Watz & Strogatz, <a href="https://static.squarespace.com/static/5436e695e4b07f1e91b30155/t/54452561e4b08d9eb2170909/1413817697054/collective-dynamics-of-small-world-networks.pdf" target="_blank">Collective Dynamics of Small World Networks</a></li>
+	            <li>2015, Stefan Sinclair releases <a href="https://gephi.org" target="_blank">Gephi</a></li>
+        		</ul>
+					</section>
+					<!-- section 4-3 -->
+					<section>
+						<h3>Major Metrics<</h3>
+						<div class="row">
+							<div class="column">
+								<ul>
+				            <li>Degree</li>
+				            <li>Closeness Centrality</li>
+				            <li>Betweeness Centrality</li>
+				            <li>Clustering</li>
+				            <li>Fragmentation</li>
+				            <li>Power</li>
+				        </ul>
+							</div>
+							<div class="column">
+								<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/graph-colors.png" alt="Visual Information - Color, Size, and Layout" />
+							</div>
+						</div>
+					</section>
+				</section>
+
+				<!-- 5th horizontal slide-->
+				<section>
+					<!-- section 5-1 -->
+					<section>
+						<h3>Historical Applications of Network Analysis</h3>
+					</section>
+					<!-- section 5-2 -->
+					<section>
+						<h3>The Topography of the Volga River Valley</h3>
+						<p>
+							<a href="http://www.analytictech.com/networks/pitts.htm" target="_blank">Link to Study</a>
+						</p>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/moscow-volga-1.png" alt="Map of the Volga River and its Cities" />
+					</section>
+					<!-- section 5-3 -->
+					<section>
+						<h3>The <strong>Topology</strong> of the Volga River Valley</h3>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/moscow-volga-2.png" alt="Network Graph of Cities on the Volga River" />
+					</section>
+					<!-- section 5-4 -->
+					<section>
+						<h3>The <strong>Monte</strong>, A Hill of Broken Pottery</h3>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/monte-testaccio-inside.png" alt="The Monte Testaccio - Inside" />
+					</section>
+					<!-- section 5-5 -->
+					<section>
+						<h3>Digging through the Centuries</h3>
+						<p>
+							<a href="https://leifuss.files.wordpress.com/2008/08/dissertation.pdf" target="_blank">Link to Study</a>
+						</p>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/monte-testaccio-side-view.png" alt="The Monte Testaccio - Cutaway View" />
+					</section>
+					<!-- section 5-6 -->
+					<section>
+						<h3>Unraveling Networks of Exchange</h3>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/monte-testaccio-stamp.png" alt="The Monte Testaccio - Amphora Maker's Mark" />
+					</section>
+					<!-- section 5-7 -->
+					<section>
+						<h3>The Major Source: Baetica (Southern Spain)</h3>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/monte-testaccio-baetica-1.png" alt="The Monte Testaccio - Map of Baetica" />
+					</section>
+					<!-- section 5-8 -->
+					<section>
+						<h3>The Topography of the Towns Mentioned in the Monte</h3>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/monte-testaccio-baetica-2.png" alt="The Monte Testaccio - River Valley Map" />
+					</section>
+					<!-- section 5-9 -->
+					<section>
+						<h3>The <strong>Topology</strong> of the Towns Mentioned in the Monte</h3>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/monte-testaccio-baetica-3.png" alt="Monte Testaccio Trade Network Source" />
+					</section>
+					<!-- section 5-10 -->
+					<section>
+						<h3>Literary Approaches - Mapping the Networks Discourse Analysis</h3>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/network-discourse.png" alt="Co-Citational Network Graph as Discourse Analysis" />
+					</section>
+					<!-- section 5-11 -->
+					<section>
+						<h3>Using Network Analysis - What is a Network Really?</h3>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/imagined-networks.png" alt="Network Connections Imagined in Inscription from Eleusis" />
+					</section>
+					<!-- section 5-12 -->
+					<section>
+						<h3>The Growth of Network Analysis</h3>
+						<img src="https://theportus.nyc3.digitaloceanspaces.com/static/presentations/digital/networks/imagined-networks.png" alt="Network Connections Imagined in Inscription from Eleusis" />
+					</section>
+					<!-- section 5-13 -->
+					<section>
+						<h3>Some Online Applications</h3>
+						<ul>
+		            <li>[Early American Foreign Service Database](http://www.eafsd.org/)</li>
+		            <li>[Orbis Geospation Network Model of the Roman World](http://orbis.stanford.edu/) Centrality</li>
+		        </ul>
+					</section>
+
+				<!-- 6th horizontal slide -->
+				<section>
+					<!-- section 6-1 -->
+					<section>
+						<h3>Links</h3>
+					</section>
+					<!-- section 6-2 -->
+					<section>
+						<h3>Academic Readings</h3>
+						<ul>
+		            <li>Robert Hanneman and Mark Riddle - <a href="http://faculty.ucr.edu/~hanneman/" target="_blank">Introduction to Social Network Methods</a></li>
+		            <li>Tom Brughmans - <a href="http://www.jstor.org/stable/43654602" target="_blank">Thinking Through Networks: A Review of Formal Network Methods in Archaeology</a></li>
+		            <li>Eduard A. Arriaga, Fernando Sancho Caparrini, and Juan Luis Suárez - <a href="http://digitalhumanities.org:8081/dhq/vol/7/1/000145/000145.html" target="_blank">Modeling Afro-Latin American Artistic Representations in Topic Maps: Cuba’s Prominence in Latin American Discourse</a></li>
+		        </ul>
+					</section>
+					<!-- section 6-3 -->
+					<section>
+						<h3>Some Tools</h3>
+						<ul>
+			        <li>
+		            <ul>
+									<li>Overall</li>
+	                <li>The Historian's Macroscope - <a href="http://www.themacroscope.org/?page_id=889" target="_blank">Network Analysis</a></li>
+	                <li>The Historian's Macroscope - <a href="" target="_blank">Network Analysis Fundamentals</a></li>
+		            </ul>
+			        </li>
+			        <li>
+			            <ul>
+										<li>Gephi</li>
+		                <li>Luca Hammer - <a href="https://medium.com/@Luca/guide-analyzing-twitter-networks-with-gephi-0-9-1-2e0220d9097d" target="_blank">Analyzing Twitter Networks with Gephi 0.9.1</a></li>
+		                <li>Shawn Graham - <a href="https://electricarchaeology.ca/2013/10/29/getting-historical-network-data-into-gephi/" target="_blank">Getting Historical Network Data into Gephi</a></li>
+		                <li>Shawn Graham - <a href="https://electricarchaeology.ca/2012/04/04/converting-2-mode-with-multimodal-plugin-for-gephi/" target="_blank">Converting 2 Mode Networks with Multimodal Plugin for Gephi</a></li>
+		                <li>David M. Berry, Erik Borra, Anne Helmond, Jean-Christophe Plantin, and Jill Walker Rettberg - <a href="http://digitalhumanities.org:8081/dhq/vol/9/3/000222/000222.html" target="_blank">The Data Sprint Approach: Exploring the field of Digital Humanities through Amazon’s Application Programming Interface</a></li>
+			            </ul>
+			        </li>
+			        <li>
+			            <ul>
+										<li>Palladio</li>
+		                <li>Miriam Posner - <a href="http://miriamposner.com/blog/getting-started-with-palladio/" target="_blank">Getting Started with Palladio</a></li>
+		                <li>Marten During (via <a href="https://programminghistorian.org/" target="_blank">The Programming Historian</a>) - <a href="https://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources" target="_blank">From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources</a></li>
+			            </ul>
+			        </li>
+			        <li>
+			            <ul>
+										<li>Cytoscape</li>
+		                <li>Miriam Posner - <a href="https://miriamposner.com/blog/visualize-a-network-of-film-casts-and-crews/" target="_blank">Visualize a Network of Film Casts and Crews</a></li>
+		                <li>Miriam Posner - <a href="https://miriamposner.com/blog/customize-your-network-visualization/" target="_blank">Customize Your Network Visualization</a></li>
+		                <li>Miriam Posner - <a href="http://miriamposner.com/blog/new-tutorials-on-network-analysis-with-cytoscape/" target="_blank">New Tutorials on Network Analysis with Cytoscape</a></li>
+			            </ul>
+			        </li>
+			    	</ul>
+					</section>
+				</section>
+			</div>
+		</div>
+
+		<script src="../../dist/reveal.js"></script>
+		<script src="../../plugin/notes/notes.js"></script>
+		<script src="../../plugin/markdown/markdown.js"></script>
+		<script src="../../plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>

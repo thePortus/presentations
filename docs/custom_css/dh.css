@@ -1,0 +1,7 @@
+html body {
+    background: url("https://theportus.nyc3.digitaloceanspaces.com/static/presentations/common/backgrounds/angular-clemens-migrant.jpg") !important;
+    background-position:center !important;
+    background-size: 100% !important;
+    background-repeat: no-repeat !important;
+    background-color: #000000 !important;
+}
