@@ -9,3 +9,7 @@
 .small-text {
   font-size: 50%;
 }
+
+.semi-dark-bg {
+  background-color:rgba(0, 0, 0, 0.5)
+}
