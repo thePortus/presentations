@@ -117,3 +117,11 @@ a {
 ul li:nth-child(even) {
   color: #C60F13;
 }
+
+.list-header {
+  color: #d2c295 !important;
+}
+
+.list-header ul {
+  color: #F2F2F2 !important;
+}
