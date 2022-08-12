@@ -120,8 +120,10 @@ ul li:nth-child(even) {
 
 .list-header {
   color: #d2c295 !important;
+  font-family: 'Lato', sans-serif !important;
 }
 
 .list-header ul {
   color: #F2F2F2 !important;
+  font-family: headerFont, serif !important;
 }
