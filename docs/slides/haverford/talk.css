@@ -114,6 +114,9 @@ a {
   color: #C60F13;
 }
 
+ul {
+  font-size: 1.75vh;
+}
 ul li:nth-child(even) {
   color: #C60F13;
 }
