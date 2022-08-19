@@ -2,7 +2,11 @@
 
 [David J. Thomas](mailto:dave.a.base@gmail.com), [thePort.us](https://thePort.us)<br>
 
-Reveal.js presentations from my classes, conferences, and talks
+Reveal.js presentations from my classes, conferences, and talks.
+
+---
+
+Visit the live site at [presentations.thePort.us](https://presentations.theport.us).
 
 ---
 
