@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+@font-face {
+  font-family: headerFont;
+  src: url(uh____11.ttf);
+}
+
+html body {
+    color: #8a100b !important;
+    background-color: #F2F2F2 !important;
+}
+
+a {
+  color: #d79713 !important;
+}
+
+section {
+  font-family: 'Open Sans', sans-serif !important;
+  color: #726158 !important;
+  font-size: 18px;
+}
+
+.border {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #501315;
+  border-radius: 5px;
+  width: auto;
+  height: auto;
+}
+
+.header-font {
+  font-family: headerFont, serif !important;
+  color: #8a100b !important;
+  font-size: 250%;
+}
+
+.grey-bg {
+  background-color: #726158 !important;
+}
+
+.bottom-line {
+  border-bottom-color: #726158 !important;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+
+.block-text {
+  background-color: #726158 !important;
+  padding: 15px;
+  color: #c5cfac !important;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #501315;
+  border-radius: 5px;
+}
+
+.block-text li {
+  margin: 10px 0px;
+}
+
+.double-spaced {
+  line-height: 200%;
+}
+
+.div-table {
+  width: 100%;
+  display: table;
+}
+.div-table-body{
+  display: table-row-group;
+}
+.div-table-row{
+  display: table-row;
+}
+.div-table-icon{
+  display: table-cell;
+  padding: 4px;
+  line-height: 1.42857143;
+  vertical-align: top;
+  text-align: center;
+}
+.div-table-col{
+  display: table-cell;
+  padding: 4px;
+  line-height: 1.42857143;
+  vertical-align: top;
+  text-align: left;
+}
