@@ -29,10 +29,20 @@ section {
   height: auto;
 }
 
-.header-font {
-  font-family: headerFont, serif !important;
-  color: #8a100b !important;
-  font-size: 250%;
+@media screen and (min-width: 601px) {
+  .header-font {
+    font-family: headerFont, serif !important;
+    color: #8a100b !important;
+    font-size: 250%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .header-font {
+    font-family: headerFont, serif !important;
+    color: #8a100b !important;
+    font-size: 100%;
+  }
 }
 
 .grey-bg {
@@ -45,18 +55,37 @@ section {
   border-bottom-width: 1px;
 }
 
-.block-text {
-  background-color: #726158 !important;
-  padding: 15px;
-  color: #c5cfac !important;
-  border-width: 1px;
-  border-style: solid;
-  border-color: #501315;
-  border-radius: 5px;
+@media screen and (min-width: 601px) {
+  .block-text {
+    background-color: #726158 !important;
+    padding: 15px;
+    color: #c5cfac !important;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #501315;
+    border-radius: 5px;
+  }
+
+  .block-text li {
+    margin: 10px 0px;
+  }
 }
 
-.block-text li {
-  margin: 10px 0px;
+@media screen and (max-width: 600px) {
+  .block-text {
+    background-color: #726158 !important;
+    padding: 15px;
+    color: #c5cfac !important;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #501315;
+    border-radius: 5px;
+    font-size: 75%;
+  }
+
+  .block-text li {
+    margin: 3px 0px;
+  }
 }
 
 .double-spaced {
