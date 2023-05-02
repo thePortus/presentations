@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+/* Colors
+White: F2F2F2
+Main Blue: 003c6c
+Main Yellow: fdc700
+Mild Blue: 006aad
+Light Blue: 13a5dc
+BlueGreen: 007988
+Orange: f29813
+YellowOrange: ffbf00
+*/
+
+html body {
+    color: #003c6c !important;
+    background-color: #F2F2F2 !important;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+a {
+  color: #ffbf00 !important;
+}
+
+section {
+  color: #726158 !important;
+  font-size: 18px;
+}
+
+.border {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #003c6c;
+  border-radius: 5px;
+  width: auto;
+  height: auto;
+}
+
+@media screen and (min-width: 601px) {
+  .header-font {
+    color: #003c6c !important;
+    font-size: 250%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .header-font {
+    color: #003c6c !important;
+    font-size: 100%;
+  }
+}
+
+.grey-bg {
+  background-color: #726158 !important;
+}
+
+.bottom-line {
+  border-bottom-color: #726158 !important;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+
+@media screen and (min-width: 601px) {
+  .block-text {
+    background-color: #fdc700 !important;
+    padding: 15px;
+    color: #003c6c !important;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #003c6c;
+    border-radius: 5px;
+  }
+
+  .block-text li {
+    margin: 10px 0px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .block-text {
+    background-color: #fdc700 !important;
+    padding: 15px;
+    color: #003c6c !important;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #003c6c;
+    border-radius: 5px;
+    font-size: 75%;
+  }
+
+  .block-text li {
+    margin: 3px 0px;
+  }
+}
+
+.double-spaced {
+  line-height: 200%;
+}
+
+.div-table {
+  width: 100%;
+  display: table;
+}
+.div-table-body{
+  display: table-row-group;
+}
+.div-table-row{
+  display: table-row;
+}
+.div-table-icon{
+  display: table-cell;
+  padding: 4px;
+  line-height: 1.42857143;
+  vertical-align: top;
+  text-align: center;
+}
+.div-table-col{
+  display: table-cell;
+  padding: 4px;
+  line-height: 1.42857143;
+  vertical-align: top;
+  text-align: left;
+}
